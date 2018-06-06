@@ -1,0 +1,7 @@
+organization=roysmorenburg-bitbucket
+projectKey=nl.hu.bep.roysmorenburg:friendspammer-helper
+serverUrl=https://sonarcloud.io
+serverVersion=7.1.1.10702
+dashboardUrl=https://sonarcloud.io/dashboard/index/nl.hu.bep.roysmorenburg:friendspammer-helper
+ceTaskId=AWL8eyIyXhRh5gha9_kt
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AWL8eyIyXhRh5gha9_kt
